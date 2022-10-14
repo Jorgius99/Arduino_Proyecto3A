@@ -1,2 +1,1 @@
-# Arduino_Proyecto3A
-Todos los códigos del arduino 
+Todos los códigos del arduino realizados por Jorge Marín-Roig Zozaya
